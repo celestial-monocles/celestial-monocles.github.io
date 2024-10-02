@@ -7,7 +7,7 @@
    <input type="submit" value="Submit">
  </form>
  
- <p id="myParagraph">Simple MS Edge Read Aloud text tool.<BR>This text will be replaced once you submit.<BR> Then you can use the read aloud feature.<BR> Use Ctrl+Shift+U, or right click "Read Aloud" to start it. </p>
+ <p id="myParagraph"> MS Edge Read Aloud text tool.<BR>This text will be replaced once you submit.<BR> Then you can use the read aloud feature.<BR> Use Ctrl+Shift+U, or right click "Read Aloud" to start it. </p>
 
  <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Metus dolor at; porttitor sollicitudin vivamus pulvinar. Mus enim curae magna sagittis montes egestas condimentum tristique sit. Neque sollicitudin urna mauris nisi quisque erat torquent tristique. Integer nibh fusce sed faucibus erat. Fermentum natoque metus tortor curae et fermentum malesuada nec nullam. Urna duis curabitur dui varius ligula blandit. Dolor ridiculus metus enim laoreet dui cras. Mattis duis montes senectus primis fringilla eros convallis semper hendrerit.</p>
 <p>Maximus tincidunt dictum rutrum mauris ultricies facilisi maximus etiam. Vulputate etiam at curae hendrerit tincidunt parturient eget massa. Morbi volutpat id condimentum egestas nullam vitae tellus pharetra. Augue nisi venenatis egestas purus consequat egestas hac at lectus. Natoque per volutpat, pellentesque feugiat justo volutpat. Lobortis platea in nisi senectus ullamcorper aliquet nostra parturient. Posuere mus mattis risus dolor; dis placerat condimentum mattis lacinia. Sed tempus integer himenaeos posuere; maecenas tempus. Auctor penatibus varius dictum luctus, arcu eget molestie.</p>
