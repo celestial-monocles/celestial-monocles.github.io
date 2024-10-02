@@ -2,7 +2,7 @@
  <body style="background-color:#feefc3;">
  
  <form id="myForm">
-   <textarea id="myTextBox" name="myTextBox" rows="10" cols="10"></textarea>
+   <textarea id="myTextBox" name="myTextBox" rows="10" cols="150"></textarea>
    <br>
    <input type="submit" value="Submit">
  </form>
